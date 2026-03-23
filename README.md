@@ -53,8 +53,11 @@
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker&perline=3" />
-        <br />
-        <a href="https://github.com/google-deepmind/antigravity"><img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=flat-square&logo=google-gemini&logoColor=white" /></a>
+        <td>
+          <a href="https://github.com/google-deepmind/antigravity">
+            <img src="https://img.shields.io/badge/-Antigravity-1d1d1d?style=for-the-badge&logo=google-gemini&logoColor=7AA2F7" alt="Antigravity" height="40"/>
+          </a>
+        </td>
       </td>
     </tr>
   </table>
