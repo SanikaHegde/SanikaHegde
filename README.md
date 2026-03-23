@@ -69,16 +69,16 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaHegde&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaHegde&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SanikaHegde/SanikaHegde/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaHegde&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaHegde&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -94,66 +94,3 @@
 <p align="center">
   <b><i>"Innovating with passion, coding with purpose."</i></b>
 </p>
-
-<!-- 
-  ======================================================================
-  🛠️ SETUP & AUTOMATION GUIDE (FOR COPY-PASTE)
-  ======================================================================
-  Everything below this line is for YOUR setup and won't be visible 
-  until you click to expand. Click the "SNAKE AUTOMATION STEP" to copy 
-  the code for your GitHub Action!
-  ======================================================================
--->
-
-<details>
-<summary><b>🛠️ Setup & Automation Instructions (Click to Expand)</b></summary>
-
-### 1. The README
-Copy everything in this file (up to the "Innovating with passion" line) and paste it into the `README.md` of your special repository (the one named `SanikaHegde`).
-
-### 2. Snake Automation Step (CRITICAL)
-For the snake animation to work, you **MUST** create a new file in your GitHub repository at this exact path:
-`.github/workflows/snake.yml`
-
-**Copy and paste the code below into that file:**
-
-```yaml
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-    
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### 3. Final Step
-Commit and push these changes. Go to your GitHub **Actions** tab, click "generate animation", and click "Run workflow". Your snake will appear shortly!
-
-</details>
-
-
