@@ -14,17 +14,17 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        I'm a <b>Full Stack Developer</b> and <b>AI Enthusiast</b> dedicated to building high-performance, scalable applications. I bridge the gap between intelligent data and intuitive user experiences.
+        I'm a <b>Full Stack Developer</b> and <b>AI Enthusiast</b> with a passion for building intelligent, scalable, and user-centric applications. Currently focusing on bridging the gap between advanced AI models and seamless cloud-native experiences.
       </p>
       <ul>
-        <li>🔭 **Current Focus:** Advanced Machine Learning & Microservices</li>
-        <li>🌱 **Learning:** Distributed Systems & Deep Neural Networks</li>
-        <li>💬 **Expertise:** Python, JavaScript, React, and AI</li>
+        <li>🔭 **Current Focus:** Scalable AI Applications & Microservices</li>
+        <li>🌱 **Learning:** Cloud Architecture (AWS/Azure) & DevOps</li>
+        <li>💬 **Expertise:** React, Node.js, Python, and Generative AI</li>
         <li>📫 **Reach me:** [sanisanika10@gmail.com](mailto:sanisanika10@gmail.com)</li>
       </ul>
       <p align="left">
-        <a href="https://www.linkedin.com/in/sanika-h-r-a34029259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:sanisanika10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/sanika-h-r-a34029259"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:sanisanika10@gmail.com"><img src="https://img.shields.io/badge/Gmail-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
     <td width="40%" valign="top">
