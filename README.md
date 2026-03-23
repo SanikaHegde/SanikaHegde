@@ -76,7 +76,7 @@
 ### 📊 Activity & Performance
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaHegde&theme=react&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaHegde&theme=radical&hide_border=true&area=true" width="100%" />
 </div>
 
 <br />
@@ -85,10 +85,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaHegde&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaHegde&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaHegde&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaHegde&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>
