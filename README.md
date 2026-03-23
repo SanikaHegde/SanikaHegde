@@ -40,24 +40,15 @@
 
 ---
 
-### 📊 Skill Distribution & Activity
+### 📊 Activity Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaHegde&theme=dracula&hide_border=true&area=true" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaHegde&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaHegde&theme=dracula&hide_border=true" />
-</div>
-
----
-
-### 🐍 Contribution Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SanikaHegde/SanikaHegde/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
