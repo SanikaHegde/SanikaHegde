@@ -40,18 +40,18 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="33%"><b>Web Development</b></td>
-      <td align="center" width="33%"><b>Data & AI</b></td>
+      <td align="center" width="33%"><b>Frontend</b></td>
+      <td align="center" width="33%"><b>Backend</b></td>
       <td align="center" width="33%"><b>Tools & Cloud</b></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,mongodb&perline=4" />
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" />
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=py,jupyter,pandas,numpy,mysql&perline=3" />
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=py,nodejs,mongodb,mysql,express&perline=3" />
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker&perline=3" />
       </td>
     </tr>
