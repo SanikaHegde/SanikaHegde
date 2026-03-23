@@ -14,7 +14,13 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        I'm a <b>Full Stack Developer</b> passionate about building seamless user experiences. Currently deep-diving into <b>AI and Cloud Computing</b> to build smarter, scalable applications, while leveraging my core expertise in <b>Frontend Development</b>.
+        I’m a <b> Computer Science Engineering student</b> with a passion for <b>AI, cloud computing, and full-stack development</b>. I love learning, exploring new ideas, and taking on challenges.
+      </p>
+      <p>
+        I enjoy working on creative solutions, collaborating with people, and constantly growing both personally and professionally. I’m curious, motivated, and always looking for opportunities to make a positive impact.
+      </p>
+      <p>
+        Outside of academics, I enjoy reading, discovering new interests, and developing skills that help me grow. I believe in staying passionate, open-minded, and dedicated to achieving meaningful goals.
       </p>
       <br/>
       <p align="left">
