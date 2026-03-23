@@ -4,10 +4,10 @@
   <a href="https://github.com/SanikaHegde">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <a href="https://www.linkedin.com/in/sanika-h-r-a34029259">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:sanisanika10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -38,7 +38,7 @@ I'm a passionate **Software Developer** and **Data Science Enthusiast** dedicate
 </details>
 
 <details open>
-<summary><b>Data Science & Backend</b></summary>
+<summary><b> Backend</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -68,14 +68,6 @@ I'm a passionate **Software Developer** and **Data Science Enthusiast** dedicate
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaHegde&theme=nord" alt="GitHub Streak" />
 </div>
-
----
-
-### 🌟 Featured Projects
-
-- **[COPD Stage Prediction](https://github.com/SanikaHegde/COPD_STAGE_PREDICTION)**: A machine learning model to predict the stage of COPD.
-- **[Fursteps Pet Wellness Tracker](https://github.com/SanikaHegde/Fursteps-pet-wellness-tracker)**: A comprehensive database management system for pet health.
-- **[Taskflow](https://github.com/SanikaHegde/Taskflow)**: A streamlined task management application.
 
 ---
 
