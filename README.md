@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Sanika%20Hegde&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20&%20Data%20Science&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Sanika%20Hegde&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Learner&descSize=20&descAlignY=60" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Code;Building+Intelligent+Systems;Solving+Complex+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Cloud+Learner" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        I'm a <b>Full Stack Developer</b> and <b>Data Science Enthusiast</b> dedicated to building high-performance, scalable applications. I bridge the gap between intelligent data and intuitive user experiences.
+        I'm a <b>Full Stack Developer</b> and <b>AI Enthusiast</b> dedicated to building high-performance, scalable applications. I bridge the gap between intelligent data and intuitive user experiences.
       </p>
       <ul>
         <li>🔭 **Current Focus:** Advanced Machine Learning & Microservices</li>
