@@ -16,15 +16,18 @@
       <p>
         I'm a <b>Full Stack Developer</b> and <b>AI Enthusiast</b> with a passion for building intelligent, scalable, and user-centric applications. Currently focusing on bridging the gap between advanced AI models and seamless cloud-native experiences.
       </p>
-      <ul>
-        <li>🔭 **Current Focus:** Scalable AI Applications & Microservices</li>
-        <li>🌱 **Learning:** Cloud Architecture (AWS/Azure) & DevOps</li>
-        <li>💬 **Expertise:** React, Node.js, Python, and Generative AI</li>
-        <li>📫 **Reach me:** [sanisanika10@gmail.com](mailto:sanisanika10@gmail.com)</li>
-      </ul>
+      <br/>
       <p align="left">
-        <a href="https://www.linkedin.com/in/sanika-h-r-a34029259"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:sanisanika10@gmail.com"><img src="https://img.shields.io/badge/Gmail-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Current_Focus-AI_&_Microservices-7AA2F7?style=flat-square&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Learning-Cloud_Architecture-BB9AF7?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Expertise-React_|_Node_|_AI-7AA2F7?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Contact-sanisanika10@gmail.com-BB9AF7?style=flat-square&logo=gmail&logoColor=white" />
+      </p>
+      <br/>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/sanika-h-r-a34029259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:sanisanika10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
     <td width="40%" valign="top">
