@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sanika+Hegde;Software+Developer;Data+Science+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sanika+Hegde;Software+Developer;AI+Enthusiast;full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -39,11 +39,31 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,py,vscode,git,github" />
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td valign="top" width="33%">
+      <b>💻 Languages</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
+    </td>
+    <td valign="top" width="33%">
+      <b>⚛️ Frameworks</b><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br/>
+    </td>
+    <td valign="top" width="33%">
+      <b>🧰 Tools</b><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
