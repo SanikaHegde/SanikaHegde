@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Sanika%20Hegde&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Sanika%20Hegde%20✨&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Full+Stack+Developer;AI+Enthusiast;Cloud+Learner" alt="Typing SVG" />
 </div>
 
 ---
 
-### 💫 About Me
+### 💫 About Me 👋
 
 <table border="0">
   <tr>
