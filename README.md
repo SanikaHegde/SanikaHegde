@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Full+Stack+Developer;AI+Enthusiast;Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Full+Stack+Developer;Learning+AI+&+Cloud;Frontend+Specialist" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,20 +14,20 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        I'm a <b>Full Stack Developer</b> and <b>AI Enthusiast</b> with a passion for building intelligent, scalable, and user-centric applications. Currently focusing on bridging the gap between advanced AI models and seamless cloud-native experiences.
+        I'm a <b>Full Stack Developer</b> passionate about building seamless user experiences. Currently deep-diving into <b>AI and Cloud Computing</b> to build smarter, scalable applications, while leveraging my core expertise in <b>Frontend Development</b>.
       </p>
       <br/>
       <p align="left">
-        <img src="https://img.shields.io/badge/Current_Focus-AI_&_Microservices-7AA2F7?style=flat-square&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Learning-Cloud_Architecture-BB9AF7?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Current_Focus-Full_Stack-7AA2F7?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Learning-AI_&_Cloud-BB9AF7?style=flat-square&logo=google-cloud&logoColor=white" />
         <br/>
-        <img src="https://img.shields.io/badge/Expertise-React_|_Node_|_AI-7AA2F7?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expertise-Frontend-7AA2F7?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/Contact-sanisanika10@gmail.com-BB9AF7?style=flat-square&logo=gmail&logoColor=white" />
       </p>
       <br/>
       <p align="left">
-        <a href="https://www.linkedin.com/in/sanika-h-r-a34029259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:sanisanika10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/sanika-h-r-a34029259"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:sanisanika10@gmail.com"><img src="https://img.shields.io/badge/Gmail-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
     <td width="40%" valign="top">
