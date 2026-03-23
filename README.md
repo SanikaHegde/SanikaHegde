@@ -53,6 +53,8 @@
       </td>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker&perline=3" />
+        <br />
+        <a href="https://github.com/google-deepmind/antigravity"><img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=flat-square&logo=google-gemini&logoColor=white" /></a>
       </td>
     </tr>
   </table>
